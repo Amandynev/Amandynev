@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amandynev
-- 👀 I’m about to start new job soon as fullstack developper web working on ruby on rails & react.
-- 🌱 I’m currently learning react & redux
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m about to start new job as fullstack developper web working on ruby on rails & react.
+- 🌱 I’m currently learning advanced react & redux
+- 💞️ I’m looking to collaborate on short freelance projects aswell.
 - 📫 How to reach me www.amandyneverdonck.com
 
 <!---
